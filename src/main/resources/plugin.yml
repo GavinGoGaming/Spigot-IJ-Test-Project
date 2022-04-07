@@ -1,0 +1,9 @@
+name: BetterSpigot
+version: '${project.version}'
+main: com.gavingogaming.betterspigot.BSpig
+api-version: 1.18
+prefix: BSpigot >>
+loadbefore: [ SysomanderAPI ]
+depend: [ SysomanderAPI ]
+authors: [ GavinGoGaming ]
+description: Better Spigot API with Sysomand support
